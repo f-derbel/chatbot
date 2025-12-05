@@ -1,0 +1,11 @@
+bonjour:bonjour ma star
+comment ca va:bien merci
+cv:cv:tres bien merci
+qui es tu:qui es tu:je suis chatou
+histrique:historique
+bonjour:bonjour ma star
+comment ca va:bien merci
+cv:cv:tres bien merci
+qui es tu:qui es tu:je suis chatou
+histrique:historique
+cv?:oui cv et toi

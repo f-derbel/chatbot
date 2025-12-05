@@ -1,0 +1,36 @@
+[2025-11-23 00:54:13] Utilisateur: bonjour
+[2025-11-23 00:54:13] Bot: bonjour ma star
+--------------------------------------------------
+[2025-11-23 00:54:44] Utilisateur: comment ca va
+[2025-11-23 00:54:44] Bot: bien merci
+--------------------------------------------------
+[2025-11-25 14:23:34] Utilisateur: bonjour
+[2025-11-25 14:23:34] Bot: bonjour ma star
+--------------------------------------------------
+[2025-11-25 14:23:59] Utilisateur: cv
+[2025-11-25 14:23:59] Bot: cv:tres bien merci
+--------------------------------------------------
+[2025-11-25 14:24:03] Utilisateur: cv
+[2025-11-25 14:24:03] Bot: cv:tres bien merci
+--------------------------------------------------
+[2025-11-25 14:24:35] Utilisateur: qui es tu
+[2025-11-25 14:24:35] Bot: qui es tu:je suis chatou
+--------------------------------------------------
+[2025-11-28 14:27:40] Utilisateur: bonjour
+[2025-11-28 14:27:40] Bot: bonjour ma star
+[2025-12-05 11:10:23] Utilisateur: bonjour
+[2025-12-05 11:10:23] Bot: bonjour ma star
+[2025-12-05 11:10:42] Utilisateur: temps
+[2025-12-05 11:10:42] Bot: Désolée je ne connais ^pas la reponse apprenez moi donc 
+[2025-12-05 11:10:58] Utilisateur: non rien
+[2025-12-05 11:10:58] Bot: Désolée je ne connais ^pas la reponse apprenez moi donc 
+[2025-12-05 11:12:05] Utilisateur: hist
+[2025-12-05 11:12:05] Bot: Désolée je ne connais ^pas la reponse apprenez moi donc 
+[2025-12-05 11:12:18] Utilisateur: histrique
+[2025-12-05 11:12:18] Bot: historique
+[2025-12-05 12:22:44] Utilisateur: bonjour
+[2025-12-05 12:22:44] Bot: bonjour ma star
+[2025-12-05 12:23:14] Utilisateur: cv?
+[2025-12-05 12:23:14] Bot: oui cv et toi
+[2025-12-05 12:23:18] Utilisateur: cv?
+[2025-12-05 12:23:18] Bot: oui cv et toi
